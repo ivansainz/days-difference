@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28010.2050
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "daysdifference", "daysdifference.csproj", "{46AB9098-64EF-40C2-8579-0584FFD2D542}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DaysDifference", "DaysDifference.csproj", "{46AB9098-64EF-40C2-8579-0584FFD2D542}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
